@@ -1,0 +1,14 @@
+{
+  "name": "remindbot",
+  "version": "1.0.0",
+  "description": "discord bot for reminders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "slxmmy999",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
